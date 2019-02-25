@@ -7,6 +7,7 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("FuckYou!");
         System.out.println("GoodLuck!");
-		
-		
+
+
+    }
 }
