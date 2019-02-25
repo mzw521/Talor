@@ -7,5 +7,6 @@ public class Main {
         System.out.println("HelloWorld!");
 		nihaoa 
 		I love Java!
+		XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     }
 }
